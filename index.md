@@ -18,4 +18,5 @@ My GitHub page is http://github.com/jonezzzz.
 
 * Lab 7
 
-    Lab 7, was one of the more interesting ones. We learned how to code extended loops. We also learned how to work with bool fucntions to determine wheter out outcome would be true or false. 
+    Lab 7, was one of the more interesting ones. We learned how to code extended loops. We also learned how to work with bool fucntions to determine wheter out outcome would be true or false.
+  
